@@ -64,7 +64,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fevfunny /fevfunny /output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Subbinder /Subbinder /output/snake.svg" alt="Snake animation" />
 
 ###
 
